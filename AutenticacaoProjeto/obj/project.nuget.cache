@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CyKB3vKrxQTX8I2LtcKItvK6B7+RS+tCuJrOKKeQzQDClRRfYps03YXu3503HvsG1uCFChruRkdw/R5MwqC2cQ==",
+  "dgSpecHash": "EQiBSODOI5qSFmDmSygOAfsaDUujbQHantV1hWoijob8R74zFTLh4E6QPtxh3flmbWP3PlT9Ydc7TlIYo/qsbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\Portifolio\\projetoDio\\EntregaDio_Series\\AutenticacaoAspNetEstudo\\AutenticacaoProjeto\\AutenticacaoProjeto.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,7 @@
     "C:\\Users\\albertolacerda\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\5.0.2\\microsoft.visualstudio.web.codegeneration.5.0.2.nupkg.sha512",
     "C:\\Users\\albertolacerda\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\5.0.2\\microsoft.visualstudio.web.codegeneration.contracts.5.0.2.nupkg.sha512",
     "C:\\Users\\albertolacerda\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\5.0.2\\microsoft.visualstudio.web.codegeneration.core.5.0.2.nupkg.sha512",
+    "C:\\Users\\albertolacerda\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\5.0.2\\microsoft.visualstudio.web.codegeneration.design.5.0.2.nupkg.sha512",
     "C:\\Users\\albertolacerda\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.entityframeworkcore\\5.0.2\\microsoft.visualstudio.web.codegeneration.entityframeworkcore.5.0.2.nupkg.sha512",
     "C:\\Users\\albertolacerda\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.templating\\5.0.2\\microsoft.visualstudio.web.codegeneration.templating.5.0.2.nupkg.sha512",
     "C:\\Users\\albertolacerda\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\5.0.2\\microsoft.visualstudio.web.codegeneration.utils.5.0.2.nupkg.sha512",
